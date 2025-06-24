@@ -1,16 +1,12 @@
 {
-  "name": "react-table",
-  "version": "7.8.0",
+  "name": "@nuva-org/react-table",
+  "version": "7.9.0",
   "description": "Hooks for building lightweight, fast and extendable datagrids for React",
   "license": "MIT",
   "homepage": "https://react-table.tanstack.com",
   "repository": {
     "type": "git",
-    "url": "https://github.com/tannerlinsley/react-table"
-  },
-  "funding": {
-    "type": "github",
-    "url": "https://github.com/sponsors/tannerlinsley"
+    "url": "https://github.com/Nuva-Org/react-table"
   },
   "keywords": [
     "react",
@@ -96,8 +92,8 @@
     "lint-staged": "^9.4.3",
     "prettier": "^1.19.1",
     "prop-types": "^15.5.0",
-    "react": "^19.1.0",
-    "react-dom": "^19.1.0",
+    "react": "^18.1.0",
+    "react-dom": "^18.1.0",
     "react-test-renderer": "^18.1.0",
     "rollup": "^1.32.1",
     "rollup-plugin-babel": "^4.3.3",
